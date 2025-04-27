@@ -1,6 +1,6 @@
 <h1 align="center">Hola Valentina Ruiz</h1>
 <h3 align="center">Qa Automation Backend From Argentina</h3>
-
+👩🏽‍💻About me: 
 - 🔭 I’m currently working on Core transaccional in Uala
 
 - 🌱 I’m currently learning **ETL Testing / Data Science**
