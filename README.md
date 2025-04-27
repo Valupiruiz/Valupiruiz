@@ -1,10 +1,12 @@
 <h1 align="center">Hola Valentina Ruiz</h1>
 <h3 align="center">Qa Automation Backend From Argentina</h3>
-👩🏽‍💻About me: 
+<h2>👩🏽‍💻About me:</h2>
+<p>
 QA Engineer at Ualá, where I ensure the quality of a virtual wallet impacting millions of users. With Python, Pytest, and AWS, I design and execute automated tests for the transactional core, delivering robustness and reliability. My lead recognizes me as a technical reference, solving complex problems with deep analysis and innovative solutions.
-
+</p>
+<p>
 Currently, I'm diving into the exciting world of Data Science and ETL Testing, exploring tools like Pandas and Informatica to validate data processes. Passionate about travel and technology, I blend my global curiosity with a commitment to building high-quality software.
-
+</p>
 <div>
   <h2>🛠️ Skills</h2>
 
@@ -26,6 +28,9 @@ Currently, I'm diving into the exciting world of Data Science and ETL Testing, e
   <h3>Cloud</h3>
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch" />
+    <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazon-sqs&logoColor=white" alt="SQS" />
+    <img src="https://img.shields.io/badge/SNS-FF4F8B?style=flat&logo=amazon-sns&logoColor=white" alt="SNS" />
     <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white" alt="DynamoDB" />
     <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white" alt="Lambda" />
     <img src="https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white" alt="S3" />
@@ -35,7 +40,6 @@ Currently, I'm diving into the exciting world of Data Science and ETL Testing, e
   <p>
     <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
     <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Informatica-FF4F00?style=flat&logo=informatica&logoColor=white" alt="Informatica" />
     <img src="https://img.shields.io/badge/Data%20Warehouse-4A90E2?style=flat&logo=databricks&logoColor=white" alt="Data Warehouse" />
   </p>
 
@@ -43,12 +47,18 @@ Currently, I'm diving into the exciting world of Data Science and ETL Testing, e
   <p>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/CI%2FCD-2C3E50?style=flat&logo=github-actions&logoColor=white" alt="CI/CD" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" alt="Jira" />
     <img src="https://img.shields.io/badge/Agile-00A699?style=flat&logo=agile&logoColor=white" alt="Agile" />
   </p>
+
+  <h2>📫 Connect with Me</h2>
+  <p>
+    <a href="mailto:valentina.saraviaruiz@gmail.com">
+      <img src="https://img.shields.io/badge/Email-valentina.saraviaruiz%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/valentinamadelainesaraviaruiz/">
+      <img src="https://img.shields.io/badge/LinkedIn-Valentina%20Ruiz-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 </div>
-
-- 📫 How to reach me **valentina.saraviaruiz@gmail.com**
-
-
 
